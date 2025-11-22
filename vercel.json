@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "http://core-x-public.privateweb.my.id:2086/$1"
-    }
-  ]
-}
